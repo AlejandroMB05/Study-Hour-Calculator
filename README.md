@@ -2,7 +2,7 @@
 
 # Description
 
-Study hours are the time tou spend studying or taking classes.
+Study hours are the time you spend studying or taking classes.
 
 The user enters their amount of classes and how long each of them last.
 
